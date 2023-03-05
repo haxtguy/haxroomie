@@ -1,6 +1,6 @@
 {
   "name": "haxroomie-monorepo",
-  "version": 1.0
+  "version": 1.0,
   "scripts": {
     "start": "node packages/haxroomie-cli",
     "test": "mocha ./packages/haxroomie-core/test",
